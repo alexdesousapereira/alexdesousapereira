@@ -1,4 +1,4 @@
-## Oi eu sou Alex de Sousa Pereira, entusiasta a ciência de dados!
+## Olá meu nome é Alex de Sousa Pereira e sou entusiasta a ciência de dados!
 <div align="center">
   <a href="https://github.com/alexdesousapereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdesousapereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
