@@ -35,7 +35,7 @@
   
 </div>
 
-<h3>TOOLS</h3>
+<h3>⚙️ TOOLS</h3>
 <div style="display: inline_block"><br>
     <img align="center" alt="Alex-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="Alex-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
