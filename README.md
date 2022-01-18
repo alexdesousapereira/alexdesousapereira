@@ -15,11 +15,10 @@
   
   <img align="center" alt="Alex-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png">
   
-  <img align="center" alt="Alex-PowerBI" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
+  <img align="center" alt="Alex-EXcel" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
   
    <img align="center" alt="Alex-Pentaho" height="30" width="40" src="https://logodix.com/logo/1960244.png">
   
-
   <img align="center" alt="Alex-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
