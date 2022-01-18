@@ -21,7 +21,7 @@
   
   <img align="center" alt="Alex-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   
-  <img align="center" alt="Alex-MySQL" height="30" width="40" src="https://cdn.freelogovectors.net/svg02/pentaho_logo.svg">
+  <img align="center" alt="Alex-MySQL" height="30" width="40" src="https://logodix.com/logo/1960244.png">
   
   
   
