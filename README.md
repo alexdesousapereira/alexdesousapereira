@@ -13,7 +13,7 @@ class Profile():
     self.name = "Alex Pereira",
     self.username = "RJ",
     self.company = "Sal Express"
-    self.job = "Business Analystics",
+    self.job = "Business Analytics",
     self.start = "05-2023",
     self.end = "Atual"
   
