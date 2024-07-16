@@ -2,7 +2,7 @@
 
 - 📊 Hoje trabalho como Data Analytics
 
-- 🌱 Estudando Ciência de Dados
+- 🌱 Estudando Análise de Dados
 
 - 👦 Pronouns: ele / dele
 
@@ -12,9 +12,9 @@ class Profile():
   def __init__(self):
     self.name = "Alex Pereira",
     self.username = "RJ",
-    self.company = "Be.x"
-    self.job = "Data Analytics",
-    self.start = "05-2022",
+    self.company = "Sal Express"
+    self.job = "Business Analystics",
+    self.start = "05-2023",
     self.end = "Atual"
   
   def myname(self):
@@ -36,12 +36,16 @@ class Profile():
 
 ## Atuação profissional
   
-📊 Data Analytics - Be.X (05.2022 - Atual) 
+📊 Business Analytics- Sal Express (05.2023 - Atual) 
+
+📊 Data Analytics - Be.X (05.2022 - 05.2023) 
  
 📊 Estágio Data Science - Cesullab (09.2021 - 05.2022)
 
 ## Formação Acadêmica
   
+:newspaper_roll: Formação em Data Analytics- UNIFAL (2023 - 2025)
+
 :newspaper_roll: Bacharel em Ciências Atuáriais - UNIFAL (2018 - 2023)
 
 :newspaper_roll: Bacharel em Ciência e Economia - UNIFAL (2018 - 2021)
