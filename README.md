@@ -44,7 +44,7 @@ class Profile():
 
 ## Formação Acadêmica
   
-:newspaper_roll: Formação em Data Analytics- UNIFAL (2023 - 2025)
+:newspaper_roll: Formação em Data Analytics- Xperium (2023 - 2025)
 
 :newspaper_roll: Bacharel em Ciências Atuáriais - UNIFAL (2018 - 2023)
 
