@@ -1,4 +1,4 @@
-## Olá, meu nome é Alex de Sousa Pereira e sou entusiasta a Cientista de Dados!
+## Olá, meu nome é Alex de Sousa Pereira e sou entusiasta a Engenharia de Dados!
 
 - 📊 Hoje trabalho como Data Analytics
 
