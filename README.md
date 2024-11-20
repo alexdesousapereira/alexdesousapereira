@@ -1,7 +1,7 @@
 # Olá!! Eu sou o Alex Pereira
 
 <div style="text-align:center">
-  <h3>Engenheiro Dados| Analista de Dados</h3>
+  <h3>Engenheiro Dados | Analista de Dados</h3>
 <div/>
 </br>
 
