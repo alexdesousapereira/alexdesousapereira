@@ -1,8 +1,8 @@
 ## Olá, meu nome é Alex de Sousa Pereira e sou entusiasta a Engenharia de Dados!
 
-- 📊 Hoje trabalho como Data Analytics
+- 📊 Hoje trabalho como Engenheiro de Dados
 
-- 🌱 Estudando Análise de Dados
+- 🌱 Estudando Engenharia de Dados
 
 - 👦 Pronouns: ele / dele
 
@@ -12,9 +12,9 @@ class Profile():
   def __init__(self):
     self.name = "Alex Pereira",
     self.username = "RJ",
-    self.company = "Sal Express"
-    self.job = "Business Analytics",
-    self.start = "05-2023",
+    self.company = "Data Holds"
+    self.job = "Data Enginner",
+    self.start = "10-2024",
     self.end = "Atual"
   
   def myname(self):
@@ -36,7 +36,9 @@ class Profile():
 
 ## Atuação profissional
   
-📊 Business Analytics- Sal Express (05.2023 - Atual) 
+📊 Data Enginner- Dataholds (10.2024 - Atual) 
+
+📊 Business Analytics- Sal Express (05.2023 - 10.2024) 
 
 📊 Data Analytics - Be.X (05.2022 - 05.2023) 
  
@@ -55,6 +57,10 @@ class Profile():
 ## Portfólio de Projetos
 
 [Dashboards](https://github.com/alexdesousapereira/Power-BI-Projects)  
+
+[Lakehouse com DuckDB](https://github.com/alexdesousapereira/LakehouseDeltaDuckDb)
+
+[Validação de Arquivos Excel](https://github.com/alexdesousapereira/dw-sales)
 
 [Modelagem de Banco de Dados Relacional](https://github.com/alexdesousapereira/Projeto_Curriculo_MYSQL)  
 
