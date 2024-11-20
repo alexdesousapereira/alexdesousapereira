@@ -1,4 +1,9 @@
-## Olá, meu nome é Alex de Sousa Pereira e sou entusiasta a Engenharia de Dados!
+# Olá!! Eu sou o Alex Pereira
+
+<div style="text-align:center">
+  <h3>Engenheiro Dados| Analista de Dados</h3>
+<div/>
+</br>
 
 - 📊 Hoje trabalho como Engenheiro de Dados
 
